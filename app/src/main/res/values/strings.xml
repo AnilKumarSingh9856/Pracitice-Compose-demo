@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practicing Compose Demo</string>
+    <string name="greeting_txt">The CV presents a full history of your academic credentials, so the length of the document is variable. In contrast, a resume presents a concise picture of your skills and qualifications for a specific position, so length tends to be shorter and dictated by years of experience (generally 1-2 pages).
+
+CVs are used by individuals seeking fellowships, grants, postdoctoral positions, and teaching/research positions in postsecondary institutions or high-level research positions in industry. Graduate school applications typically request a CV, but in general are looking for a resume that includes any publications and descriptions of research projects.
+
+In many European countries, CV is used to describe all job application documents, including a resume. In the United States and Canada, CV and resume are sometimes used interchangeably. If you are not sure which kind of document to submit, it is best to ask for clarification</string>
+    <string name="signature_txt">From Anil</string>
+</resources>
